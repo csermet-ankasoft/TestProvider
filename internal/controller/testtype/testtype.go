@@ -34,7 +34,7 @@ import (
 
 	"github.com/crossplane/provider-testprovider/apis/testgroup/v1alpha1"
 	apisv1alpha1 "github.com/crossplane/provider-testprovider/apis/v1alpha1"
-	"github.com/crossplane/provider-testprovider/internal/controller/features"
+	"github.com/crossplane/provider-testprovider/internal/features"
 )
 
 const (
